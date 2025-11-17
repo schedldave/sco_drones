@@ -1,0 +1,8 @@
+simple_pid
+matplotlib
+opencv-python
+mediapipe
+djitellopy
+opencv-contrib-python
+
+
